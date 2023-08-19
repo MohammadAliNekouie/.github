@@ -57,7 +57,7 @@
 ###
 
 <div align="right">
-  <img src="https://streak-stats.demolab.com?user=MohammadAliNekouie&locale=en&mode=weekly&theme=blue-green&hide_border=true&border_radius=5" height="190" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=MohammadAliNekouie&locale=en&mode=weekly&theme=blue-green&hide_border=true&border_radius=5" height="170" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohammadAliNekouie&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=blue-green&hide_border=true" height="250" alt="languages graph"  />
 </div>
 
